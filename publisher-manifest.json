@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "d81129e12fbd749929907a5c",
+  "owner": "yrpbpx",
+  "repo": "page-bae6004457efa5fa97adf003",
+  "title": "LEOWIKI",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "bae6004457efa5fa97adf003",
+      "a": "LEOWIKI",
+      "b": "2027官方最新地址导航",
+      "entity": "LEOWIKI",
+      "brand": "LEOWIKI",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "a42c259dae75a70c7475e81402ba50a27b0b1dd2233b15dcb01be8ec0dd681d9",
+      "content": {
+        "primary_entity": "LEOWIKI",
+        "keyword1": "LEOWIKI",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择对应客户端，配置好订阅后即可连接。",
+          "AI_CLIENTS_TITLE": "客户端按设备选择",
+          "AI_CLOSING_TEXT": "选好套餐，跟着对应客户端文档导入订阅，让每次连接都顺畅。",
+          "AI_CLOSING_TITLE": "开始配置你的订阅",
+          "AI_DESCRIPTION": "，LEOWIKI 作为海外加速器，提供从基础版到团队版的多档订阅方案。基础版每月 100GB 流量、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备，并带 IPLC 专线优化；团队版每月 1000GB、支持 20 台设备。年付比月付更省，可按设备数量与流量需求灵活挑选。",
+          "AI_FEATURES_INTRO": "从套餐流量、设备数量到订阅周期，把选择变得直接。",
+          "AI_FEATURES_TITLE": "订阅前先看这三点",
+          "AI_FEATURE_TEXT_1": "基础版 100GB/3 台设备，旗舰版 300GB/5 台设备，团队版 1000GB/20 台设备。",
+          "AI_FEATURE_TEXT_2": "手机、平板与电脑分别安装对应客户端，按设备系统获取安装包。",
+          "AI_FEATURE_TEXT_3": "年付基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，长期使用更划算。",
+          "AI_FEATURE_TITLE_1": "套餐按量选",
+          "AI_FEATURE_TITLE_2": "设备先确认",
+          "AI_FEATURE_TITLE_3": "周期算年付",
+          "AI_GUIDE_INTRO": "三步完成从选套餐到日常使用的准备。",
+          "AI_GUIDE_TITLE": "上手三步走",
+          "AI_HERO_INTRO": "LEOWIKI 海外加速器面向需要稳定连接的用户，提供基础版、旗舰版与团队版三档套餐，覆盖流量、设备数与专线优化。按人数和设备选择，再配合对应客户端配置订阅，就能开始使用。",
+          "AI_HERO_SUBTITLE": "LEOWIKI 海外加速器",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "年付方案价格更省",
+          "AI_HIGHLIGHT_3": "专线优化适合游戏与流媒体",
+          "AI_PLANS_INTRO": "基础版适合轻度个人使用，旗舰版适合多种设备同时在线，团队版面向多人与高流量场景，可按需对比。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据同时在线设备数量和每月流量需求，从基础版、旗舰版、团队版中挑选。",
+          "AI_STEP_TEXT_2": "确认设备系统与网络环境，确保客户端和订阅配置符合套餐说明。",
+          "AI_STEP_TEXT_3": "下载对应客户端，依照该客户端文档导入订阅并完成连接设置。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅连接",
+          "AI_VISUAL_TITLE": "LEOWIKI 加速方案",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "LEOWIKI 三档套餐怎么选？",
+          "AI_FAQ_ANSWER_1": "轻量使用选基础版，每月100GB、3台设备；常规多设备选旗舰版，每月300GB、5台设备并含IPLC专线；设备多或流量需求大选团队版，每月1000GB、20台设备。",
+          "AI_FAQ_QUESTION_2": "订阅链接可以同时在多台设备使用吗？",
+          "AI_FAQ_ANSWER_2": "每个套餐有对应同时在线设备数上限，基础版3台、旗舰版5台、团队版20台，在范围内可跨设备登录使用。",
+          "AI_FAQ_QUESTION_3": "按年付比按月付便宜多少？",
+          "AI_FAQ_ANSWER_3": "基础版月付15元、年付150元；旗舰版月付35元、年付350元；团队版月付85元、年付850元，按年付相当于按10个月计费。",
+          "AI_FAQ_QUESTION_4": "IPLC专线适合什么场景？",
+          "AI_FAQ_ANSWER_4": "旗舰版与团队版提供IPLC专线和游戏加速优化，适合对延迟敏感的游戏、实时音视频等场景，普通浏览用基础线路即可。",
+          "AI_FAQ_QUESTION_5": "订阅导入后连不上怎么办？",
+          "AI_FAQ_ANSWER_5": "先核对客户端版本与订阅链接是否完整，再尝试切换节点或更新订阅；若仍无法连接，可通过工单获得支持。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "jcjy3.cn",
+    "host": "jcjy3.cn"
+  },
+  "file_hashes": {
+    "index.html": "4fce140e0e8b2e1ccda1b75ed8a773546394a77613f8b8fdb597d03205cba631",
+    "sitemap.xml": "abe931252d88b0f0812eb2bcbcda8d3d1e931b317af7460cf7c1da02fd0395b5",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "2a3d9cb9ddf8f185a71d273e7a3243ce4b4a332e43a423eb21fcd3b67eee06a4",
+    "robots.txt": "40d2a6b29285b9b2ae6709570fd47cc30603e284adba5d854336647d9f0e6999",
+    "5d6c37e044af2a4cb650abb5333b3d85.txt": "25a0037b13d385bf27aefb98e81507c948e55994a8edbbd98d9bdd3c5aca2c9d"
+  },
+  "revision": "a94e3ef52b9a09c68dcd1e4f2807e9521b082e8aeb27c5f4c24c13fc6f40a4d7"
+}
